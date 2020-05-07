@@ -1,0 +1,3 @@
+Relatório aula 07/05/2020
+
+Apresentação com o professor referente a todo o desenvolvimento feito até então. Foram apresentadas a fase 1 e 2 completas do game em Construct 3, além do levantamento da questão acerca do nível das dificuldades para o público infantil. Ademais, houve a hipótese do desenvolvimento de mais fases e sobre uma possível licença para possibilitar mais inserção de eventos e comportamentos no desenvolvimento. Em particular na equipe, houve a hipótese de inserir música, mudanças de cenário para cada fase e como se daria o processo caso fosse extender-se para mais fases. Também foi levado em consideração as simbologias necessárias para atender todos os públicos.
